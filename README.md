@@ -2,9 +2,6 @@
 
 A fun and interactive **Simon Says** memory game built using **HTML, CSS, and JavaScript**. This project is a web-based version of the classic game that challenges users to repeat a growing sequence of colors.
 
-## 🔗 Live Demo
-> Add your GitHub Pages link here (if hosted)
-
 ## 🕹️ How to Play
 
 1. Click the **Start** button to begin the game.
